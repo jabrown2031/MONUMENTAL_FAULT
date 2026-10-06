@@ -1,4 +1,4 @@
-# MONUMENTAL_FAULT (old project)
+# MONUMENTAL_FAULT
 
 ---
 
